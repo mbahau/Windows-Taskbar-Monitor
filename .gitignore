@@ -1,0 +1,9 @@
+# Build output — build it yourself with build.cmd, or grab it from a Release
+*.exe
+*.pdb
+*.obj
+
+# OS/editor cruft
+Thumbs.db
+.DS_Store
+.vs/
